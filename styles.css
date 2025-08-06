@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+.ladotop{
+    background-color: yellow;
+    margin: 0px;
+    padding: 5px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.ladobottom{
+    background-color: grey;
+    margin: 0px;
+}
+
+
+.tarjeta{
+    background-color:red;
+    text-align: center;
+    height: px;
+    width: 500px;
+    margin: 50px auto;
+}
+
+div{
+    border-width: 3px;
+    border-color:black;
+    border-style: solid;
+}
+
+.mensaje{
+    color: pink;
+}
+
+.botones{
+    margin: 5px;
+    padding: 10px;
+    background-color: yellow;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
