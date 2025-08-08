@@ -1,0 +1,64 @@
+
+.cuadro1{
+    background-color: coral;
+    width: 300px;
+    text-align: center;
+    color: blue;
+    margin: auto;
+
+    border: 5px solid black;
+}
+
+.cuadro2{
+    text-align: center;
+    background-color: blue;
+    width: 300px;
+    margin: auto;
+    padding:1px;
+    border: 6px solid green;
+    border-radius: 90px 0px;
+}
+
+.cuadro3{
+    text-align: center;
+    background-color: yellow;
+    width: 300px;
+    margin: auto;
+    padding: 1px;
+    border: 6px dotted blue;
+    border-radius: 90px 90px 0 0;
+    border-width: 4px;
+}
+
+.cuadro4{
+    text-align:center;
+    background-color: blueviolet;
+    width: 300px;
+    margin:auto;
+    padding: 1px;
+    border-top: 5px solid brown;
+    border-bottom: 5px solid green;
+    border-left: 5px dotted coral;
+    border-right: 5px dotted yellow;
+    transform: skew(-20deg);
+}
+
+#texto4{
+    
+    transform: skew(20deg);
+}
+
+.boton-menu{
+    font-size: 20px;
+    text-decoration:none
+}
+
+h1{
+    text-align: center;
+    background-color: darkorange;
+    text-decoration: underline;
+}
+
+h2{
+    font-size: 30px;
+}
